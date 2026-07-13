@@ -6,7 +6,7 @@
 - [x] Cài VS Code
 - [ ] Cài IntelliJ IDEA Community
 - [x] Tạo tài khoản Figma
-- [ ] Tạo Trello Board
+- [x] Tạo check list
 - [ ] Cài Postman
 - [ ] Cài MySQL/PostgreSQL
 - [ ] Cài DBeaver
