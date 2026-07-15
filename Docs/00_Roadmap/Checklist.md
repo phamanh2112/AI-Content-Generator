@@ -1,9 +1,10 @@
 # AI Content Generator - Master Checklist
 
-## 0. Chuẩn bị
+## Giai đoạn 0 - Chuẩn bị (2 ngày)
 - [x] Cài Git
 - [x] Tạo GitHub Repository
 - [x] Cài VS Code
+- [ ] Cài IntelliJ IDEA Community
 - [x] Tạo tài khoản Figma
 - [x] Tạo check list
 - [ ] Cài Postman
@@ -11,7 +12,17 @@
 - [ ] Cài DBeaver
 - [ ] Cài Docker Desktop (giai đoạn sau)
 
-## 1. Product Discovery
+## Giai đoạn 1 - Software Engineering (1 tuần)
+- [ ] Tìm hiểu SDLC
+- [ ] Tìm hiểu Agile
+- [ ] Tìm hiểu Scrum
+- [ ] Tìm hiểu Kanban
+- [ ] Tìm hiểu Git Flow
+- [ ] Viết ghi chú
+- [ ] Tạo Roadmap
+- [ ] Lập Sprint Plan
+
+## Giai đoạn 2 - Product Discovery (1 tuần)
 - [ ] Xác định vấn đề
 - [ ] Xác định khách hàng mục tiêu
 - [ ] Phân tích đối thủ
@@ -19,8 +30,9 @@
 - [ ] Lean Canvas
 - [ ] Business Model Canvas
 - [ ] Vision Document
+- [ ] Competitor Analysis
 
-## 2. Business Analysis
+## Giai đoạn 3 - Business Analysis (1 tuần)
 - [ ] Stakeholder
 - [ ] Persona
 - [ ] User Journey
@@ -28,7 +40,7 @@
 - [ ] Use Case
 - [ ] BRD
 
-## 3. Requirement Analysis
+## Giai đoạn 4 - Requirement Analysis (1 tuần)
 - [ ] Functional Requirements
 - [ ] Non-functional Requirements
 - [ ] Business Rules
@@ -36,14 +48,11 @@
 - [ ] Product Backlog
 - [ ] SRS
 
-## 4. UX Design
+## Giai đoạn 5 - UX/UI (2 tuần)
 - [ ] Information Architecture
-- [ ] Sitemap
 - [ ] User Flow
 - [ ] Wireframe
 - [ ] Prototype
-
-## 5. UI Design
 - [ ] Design System
 - [ ] Colors
 - [ ] Typography
@@ -51,37 +60,40 @@
 - [ ] Responsive Design
 - [ ] Hoàn thiện giao diện
 
-## 6. Database Design
+## Giai đoạn 6 - Database & API (2 tuần)
 - [ ] ERD
 - [ ] Data Dictionary
 - [ ] Thiết kế bảng
 - [ ] Khóa chính/ngoại
 - [ ] Index
 - [ ] SQL Script
-
-## 7. API Design
 - [ ] API List
 - [ ] REST API
 - [ ] OpenAPI/Swagger
 - [ ] Postman Collection
 - [ ] Authentication Flow
 
-## 8. System Design
+## Giai đoạn 7 - System Design (2 tuần)
 - [ ] HLD
 - [ ] LLD
 - [ ] Architecture Diagram
 - [ ] Sequence Diagram
 - [ ] Class Diagram
 
-## 9. Backend
+## Giai đoạn 8 - Backend (3 tuần)
 - [ ] Spring Boot
 - [ ] Authentication
 - [ ] CRUD
-- [ ] AI Integration
 - [ ] Exception Handling
 - [ ] Logging
 
-## 10. Frontend
+## Giai đoạn 9 - AI Integration (2 tuần)
+- [ ] Prompt Engineering
+- [ ] LLM API
+- [ ] Prompt Design
+- [ ] Tích hợp AI tạo nội dung
+
+## Giai đoạn 10 - Frontend (3 tuần)
 - [ ] HTML/CSS
 - [ ] React
 - [ ] Login
@@ -90,7 +102,7 @@
 - [ ] History
 - [ ] Profile
 
-## 11. Testing
+## Giai đoạn 11 - Testing (2 tuần)
 - [ ] Test Plan
 - [ ] Test Cases
 - [ ] Unit Test
@@ -98,7 +110,7 @@
 - [ ] API Test
 - [ ] Bug Fix
 
-## 12. Deployment
+## Giai đoạn 12 - Deployment (2 tuần)
 - [ ] Docker
 - [ ] Docker Compose
 - [ ] CI/CD
@@ -106,7 +118,7 @@
 - [ ] Domain
 - [ ] SSL
 
-## 13. Documentation
+## Giai đoạn 13 - Documentation (1 tuần)
 - [ ] README
 - [ ] User Guide
 - [ ] API Documentation
