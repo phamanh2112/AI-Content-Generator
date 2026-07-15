@@ -4,7 +4,6 @@
 - [x] Cài Git
 - [x] Tạo GitHub Repository
 - [x] Cài VS Code
-- [ ] Cài IntelliJ IDEA Community
 - [x] Tạo tài khoản Figma
 - [x] Tạo check list
 - [ ] Cài Postman
